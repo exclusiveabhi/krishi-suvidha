@@ -11,7 +11,7 @@
 
 ## Note:- Under Working ! 
 
-## 📁 Folder Structure
+## 📁 Folder Structures
 
 Here's a quick look at the project structure:
 
